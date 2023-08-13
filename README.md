@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm ATHIYAMAN</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
-<img align="right" alt="Coding" width="200" src="https://tse3.mm.bing.net/th?id=OIP.Urc28sbnORGOW5oyohQ06gHaFj&pid=Api&P=0&h=180">
+<img align="right" alt="Coding" width="150" src="https://tse3.mm.bing.net/th?id=OIP.Urc28sbnORGOW5oyohQ06gHaFj&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athiyaman-m&label=Profile%20views&color=0e75b6&style=flat" alt="athiyaman-m" /> </p>
 
