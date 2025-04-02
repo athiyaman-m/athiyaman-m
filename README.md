@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/athiyamanpro" target="blank"><img src="https://img.shields.io/twitter/follow/athiyamanpro?logo=twitter&style=for-the-badge" alt="athiyamanpro" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, AI, ML, DL.**
+- 🌱 I’m currently learning **Data Science, GenAI, AI Agents, ML and DL stuffs.**
 
 - 💬 Ask me about **Data**
 
