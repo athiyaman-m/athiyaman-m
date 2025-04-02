@@ -1,6 +1,6 @@
 
-<h1 align="center">Hey, Hi!👋, I'm ATHIYAMAN 👨‍💻 </h1>
-<h3 align="center">An aspiring <u>"Data Scientist"</u> from India.</h3>
+<h1 align="center">Hey, Hi!👋, I'm Athiyaman M 👨‍💻 </h1>
+<h3 align="center">An aspiring <u>"Data Scientist"</u> from India!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athiyaman-m&label=Profile%20views&color=0e75b6&style=flat" alt="athiyaman-m" /> </p>
